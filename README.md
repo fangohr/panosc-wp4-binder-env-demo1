@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/panosc-wp4-binder-env-demo1/master?filepath=template-analysis-population.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/panosc-wp4-binder-env-demo1/master)
 
 # panosc-wp4-binder-env-demo1
 Demonstrate possible virtual analysis environment configuration
