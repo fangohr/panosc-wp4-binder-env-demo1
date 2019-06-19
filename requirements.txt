@@ -1,0 +1,9 @@
+matplotlib
+notebook
+#nbval
+numpy
+pandas
+#pytest
+#seaborn
+scipy
+#sympy
