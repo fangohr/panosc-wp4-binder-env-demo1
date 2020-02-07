@@ -4,6 +4,5 @@ notebook
 numpy
 pandas
 #pytest
-#seaborn
 scipy
 #sympy
